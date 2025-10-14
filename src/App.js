@@ -11,7 +11,7 @@ import Dashboard from './AdminSide/Dashboard';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path='/' element={<CustomHome/>}/>
           <Route path='/history' element={<CustomHistory/>}/>
@@ -25,7 +25,7 @@ function App() {
 
 
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
