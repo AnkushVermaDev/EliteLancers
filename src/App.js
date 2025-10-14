@@ -1,4 +1,4 @@
- import { BrowserRouter, Routes,Route } from 'react-router-dom';
+ import { BrowserRouter,HashRouter, Routes,Route } from 'react-router-dom';
 import CustomHome from './UserSide/CustomHome';
 import CustomHistory from './UserSide/CustomHistory';
 import Notifications from './Common/Notifications';
@@ -7,10 +7,11 @@ import SpecificUser from './AdminSide/SpecificUser';
 import Dashboard from './AdminSide/Dashboard';
 
 
+
 function App() {
   return (
     <div className="App">
-      <BrowserRouter default="/">
+      <BrowserRouter>
         <Routes>
           <Route path='/' element={<CustomHome/>}/>
           <Route path='/history' element={<CustomHistory/>}/>
