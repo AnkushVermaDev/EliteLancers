@@ -10,7 +10,7 @@ import Dashboard from './AdminSide/Dashboard';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter default="/">
         <Routes>
           <Route path='/' element={<CustomHome/>}/>
           <Route path='/history' element={<CustomHistory/>}/>
