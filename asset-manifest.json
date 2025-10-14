@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EliteLancers/static/css/main.e6c13ad2.css",
+    "main.js": "/EliteLancers/static/js/main.87070423.js",
+    "static/js/453.117b0875.chunk.js": "/EliteLancers/static/js/453.117b0875.chunk.js",
+    "index.html": "/EliteLancers/index.html",
+    "main.e6c13ad2.css.map": "/EliteLancers/static/css/main.e6c13ad2.css.map",
+    "main.87070423.js.map": "/EliteLancers/static/js/main.87070423.js.map",
+    "453.117b0875.chunk.js.map": "/EliteLancers/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.87070423.js"
+  ]
+}
