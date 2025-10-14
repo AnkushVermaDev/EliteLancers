@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/EliteLancers/static/css/main.e6c13ad2.css",
-    "main.js": "/EliteLancers/static/js/main.9e16168b.js",
-    "static/js/453.117b0875.chunk.js": "/EliteLancers/static/js/453.117b0875.chunk.js",
-    "index.html": "/EliteLancers/index.html",
-    "main.e6c13ad2.css.map": "/EliteLancers/static/css/main.e6c13ad2.css.map",
-    "main.9e16168b.js.map": "/EliteLancers/static/js/main.9e16168b.js.map",
-    "453.117b0875.chunk.js.map": "/EliteLancers/static/js/453.117b0875.chunk.js.map"
+    "main.css": "/elitelancer.ocell.aero/static/css/main.e6c13ad2.css",
+    "main.js": "/elitelancer.ocell.aero/static/js/main.e33745b4.js",
+    "static/js/453.117b0875.chunk.js": "/elitelancer.ocell.aero/static/js/453.117b0875.chunk.js",
+    "index.html": "/elitelancer.ocell.aero/index.html",
+    "main.e6c13ad2.css.map": "/elitelancer.ocell.aero/static/css/main.e6c13ad2.css.map",
+    "main.e33745b4.js.map": "/elitelancer.ocell.aero/static/js/main.e33745b4.js.map",
+    "453.117b0875.chunk.js.map": "/elitelancer.ocell.aero/static/js/453.117b0875.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.9e16168b.js"
+    "static/js/main.e33745b4.js"
   ]
 }
