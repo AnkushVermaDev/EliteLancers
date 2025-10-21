@@ -4,6 +4,8 @@ import { useNavigate } from 'react-router-dom';
 const CustomHistory = () => {
 
   const navigate = useNavigate();
+      const [userrole,setuserrole]=useState({role:"admin"})
+
    const userinformation=
     {
 
@@ -69,7 +71,7 @@ const CustomHistory = () => {
 
   return (
     <div className="bg-black w-full min-h-screen text-white p-6">
-  <Userheader userinfo={userinformation}/>
+  <Userheader role={[userrole]}  userinfo={userinformation} color={["white","blue"]} />
 
   {currentarray.length > 0 ? (
     currentarray
